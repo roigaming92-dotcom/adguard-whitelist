@@ -177,20 +177,55 @@
 @@||leagueoflegends.com^
 @@||playvalorant.com^
 
-# Steam
+# ===== RIOT (VALORANT / LOL) =====
+@@||riotgames.com^
+@@||leagueoflegends.com^
+@@||playvalorant.com^
+@@||pvp.net^
+@@||riotcdn.net^
+@@||hcaptcha.com^
+
+# ===== STEAM / CS2 =====
 @@||steampowered.com^
 @@||steamstatic.com^
+@@||steamcontent.com^
+@@||steamcommunity.com^
 
-# Epic
+# ===== EPIC GAMES =====
 @@||epicgames.com^
+@@||unrealengine.com^
+@@||ol.epicgames.com^
+@@||cdn1.epicgames.com^
 
-# Blizzard
+# ===== BLIZZARD =====
 @@||battle.net^
+@@||blizzard.com^
+@@||battlenet.com^
 
-# CDN (quan trọng)
+# ===== GARENA (VN) =====
+@@||garena.vn^
+@@||garena.com^
+@@||garenanow.com^
+
+# ===== MICROSOFT / XBOX =====
+@@||xboxlive.com^
+@@||xbox.com^
+@@||microsoft.com^
+@@||live.com^
+
+# ===== CDN (CỰC QUAN TRỌNG - KHÔNG ĐƯỢC THIẾU) =====
 @@||akamaized.net^
 @@||cloudfront.net^
+@@||fastly.net^
+@@||edgekey.net^
+@@||edgesuite.net^
 
-# YouTube (tránh lỗi app)
+# ===== YOUTUBE (TRÁNH LỖI MOBILE) =====
 @@||googlevideo.com^
 @@||ytimg.com^
+@@||gvt1.com^
+@@||gvt2.com^
+
+# ===== CAPTCHA / LOGIN =====
+@@||recaptcha.net^
+@@||google.com^
