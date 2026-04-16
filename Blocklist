@@ -1,0 +1,20 @@
+# ===== GOOGLE ADS =====
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||adservice.google.com^
+
+# ===== SOCIAL ADS =====
+||ads.facebook.com^
+||ads.instagram.com^
+||ads.twitter.com^
+
+# ===== GENERIC ADS =====
+||adserver.*^
+||ads.*^
+||banner.*^
+||popads.net^
+||propellerads.com^
+
+# ===== YOUTUBE ADS (chặn nhẹ, không lỗi app) =====
+||youtubeads.googlevideo.com^
